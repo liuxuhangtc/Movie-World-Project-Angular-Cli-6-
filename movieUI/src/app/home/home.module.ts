@@ -27,7 +27,7 @@ import { JwSocialButtonsModule } from 'jw-angular-social-buttons';
     SharedModule,
     RouterModule.forChild(homeRouter),
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyBSZMLEViAto4M9e6kmZn1ZmTh7s44u0I8', //Google API key for maps
+      apiKey: 'AIzaSyDezeQPw7xjY_2p0tYYLHEZ-2AMNKMS18o', //Google API key for maps
       libraries: ["places"]
     }),
     FormsModule,
