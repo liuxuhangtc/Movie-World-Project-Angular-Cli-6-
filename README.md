@@ -72,7 +72,7 @@ This project uses "mongoDB", "NodeJS" on back end, and "Angular Cli 6" on the fr
 
 ## Domain model
 
-![Diagram](https://github.com/neu-mis-info6150-fall-2018/final-project-_mic/blob/master/DDD_MIC.svg)
+![Diagram](https://github.com/liuxuhangtc/Movie-World-Project/blob/master/DDD_MIC.svg)
 
 
 ## Quick Start
